@@ -1,2 +1,2 @@
-library(httr2)
+# This is a bs package, lets remove it! >:)
 library(tidyverse)
